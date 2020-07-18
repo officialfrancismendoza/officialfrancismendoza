@@ -1,4 +1,4 @@
 ﻿# #⃣⛓ Hi, I'm Francis
-- I'm a concurrent rising senior in CS & a masters student in the ASU Robotics & Autonomous Systems (AI track)s program
+- I'm a concurrent rising senior in CS & a masters student in the ASU Robotics & Autonomous Systems (AI track) program
 - My specializations are within **Blockchain**, the **Internet Of Things (IoT)**, and **Artificial Intelligence**
-- I firmly believe IoT cybersecurity is a **huge** issue that must be resolved quickly
+- I firmly believe IoT cybersecurity is a **huge** issue that must be resolved quickly to preserve the industry
