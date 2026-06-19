@@ -2,7 +2,7 @@
 
 **Security Software Engineer | Applied Cryptography | Distributed Systems**
 
-Building secure systems for cryptography, distributed trust, and critical infrastructure.
+Building secure systems for cryptography, resilient distributed systems, and critical infrastructure.
 
 First-authored IEEE & ACM [published researcher](https://scholar.google.com/citations?user=oh-fcLIAAAAJ&hl=en), specializing in cybersecurity for resilient networks, cyber-physical systems, and critical infrastructure.
 
