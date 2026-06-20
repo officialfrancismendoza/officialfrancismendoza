@@ -1,6 +1,6 @@
 # 🔐 Hello, I'm Francis Mendoza
 
-**Security Software Engineer | Applied Cryptography | Distributed Systems**
+**Cybersecurity Software Engineer | Applied Cryptography | Distributed Systems**
 
 Building secure systems for cryptography, resilient distributed systems, and critical infrastructure.
 
